@@ -1,0 +1,45 @@
+{
+  "persons": [
+    {
+      "name": "Ada Lovelace",
+      "number": "39-45-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": "4"
+    },
+    {
+      "name": "Krystal Whore",
+      "id": "_1a_Bwvd_Jo",
+      "number": "456 565 566 22"
+    },
+    {
+      "name": "Mkenzie Miles",
+      "id": "zE1sjrNE7wg",
+      "number": "63-117-772"
+    },
+    {
+      "name": "Rogers Krust",
+      "id": "EQ6b1aZ--ns",
+      "number": "47-889-155"
+    },
+    {
+      "name": "Krusty jugglers",
+      "id": "D4Gu8-JYp-M",
+      "number": "96-354-778-455"
+    },
+    {
+      "name": "Jason Mcklein",
+      "id": "8YSSXDK3stc",
+      "number": "555-778-455-52"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
