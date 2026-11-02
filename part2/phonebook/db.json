@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": "Ada Lovelace",
-      "number": "39-45-5323523",
+      "number": "39-44-53235223",
       "id": "2"
     },
     {
@@ -34,11 +34,6 @@
       "name": "Krusty jugglers",
       "id": "D4Gu8-JYp-M",
       "number": "96-354-778-455"
-    },
-    {
-      "name": "Jason Mcklein",
-      "id": "8YSSXDK3stc",
-      "number": "555-778-455-52"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

@@ -1,4 +1,3 @@
-
 const Filter = ({ filter, handleChangeFilter }) => (
     <div className="textos"> 
         filter shown with <input value={filter} onChange={handleChangeFilter} />
